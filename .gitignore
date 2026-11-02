@@ -1,0 +1,15 @@
+bin/
+obj/
+dist/
+stage_*/
+*.zip
+*.pdb
+*.deps.json
+.vs/
+.idea/
+*.user
+*.suo
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini

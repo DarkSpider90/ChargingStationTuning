@@ -1,0 +1,9 @@
+{
+  "name": "ChargingStationTuning",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/DarkSpider90/REPO-ChargingStationTuning",
+  "description": "Set how much truck energy charging your gear costs, and what an energy crystal costs in the shop.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}
